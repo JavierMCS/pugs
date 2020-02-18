@@ -1,3 +1,2 @@
 # Website
-Hello world
-This is a test
+Hello Laura and Sean
